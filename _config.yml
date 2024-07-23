@@ -16,9 +16,15 @@
 title: Max V. Birk
 email: m.v.birk@tue.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Assistant Professor
+  Human-Computer-Interaction Group
+  Eindhoven University of Technology
+
+  Mental Health and Well-being
+  Game Design and User Experience
+  Cognition and Learning
+  Diversity, Ethics, and Social Issues
+
 #twitter_username: username
 github_username: max-birk
 minimal_mistakes_skin: air #default, contrast

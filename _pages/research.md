@@ -8,7 +8,7 @@ title: "Research"
 
 You can find an up-to-date list of my publications on my  <a href="https://scholar.google.com/citations?user=TyAT5MUAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 
-<h2>Project</h2>
+<h2>Projects</h2>
 
 <h3>Game-based Digital Biomarker for Acute and Chronic Stress</h3>
 <img src="/assets/images/NWO-logo huisstijlsite.png" alt="Logo Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO)"/>

@@ -58,13 +58,17 @@ plugins:
 author:
   name   : "Max V. Birk"
   avatar : "/assets/images/bio-photo-mb.png"
-  bio    : " Human-Technology Interaction Group
-  Eindhoven University of Technology
+  bio    : "
+  Assitant Professor </br>
+  Human-Technology Interaction Group</br>
+  Eindhoven University of Technology</br>
 
-  Mental Health and Well-being
-  Game Design and User Experience
-  Cognition and Learning
-  Diversity, Ethics, and Social Issues"
+  <p>
+  Mental Health and Well-being</br>
+  Game Design and User Experience</br>
+  Cognition and Learning</br>
+  Diversity, Ethics, and Social Issues</br>
+  </p>"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

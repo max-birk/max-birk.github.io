@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Max V. Birk"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo-mb.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"

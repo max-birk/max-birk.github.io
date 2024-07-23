@@ -60,10 +60,11 @@ author:
   avatar : "/assets/images/bio-photo-mb.png"
   bio    : "
   Assitant Professor<br>
-  HTI Group<br>
+  <a href='https://www.tue.nl/en/research/research-groups/innovation-sciences/human-technology-interaction' target='_blank'> HTI Group</a><br>
   Eindhoven University of Technology<br>
 
   <p>
+  <b>Areas of interest</b>
   Mental Health and Well-being<br>
   Game Design and User Experience<br>
   Cognition and Learning<br>

@@ -16,14 +16,7 @@
 title: Max V. Birk
 email: m.v.birk@tue.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Assistant Professor
-  Human-Computer-Interaction Group
-  Eindhoven University of Technology
-
-  Mental Health and Well-being
-  Game Design and User Experience
-  Cognition and Learning
-  Diversity, Ethics, and Social Issues
+Human computer interaction (HCI) researcher working on game design, mental health, cognition, and stress. Eindhoven University of Technology.  
 
 #twitter_username: username
 github_username: max-birk
@@ -66,7 +59,14 @@ plugins:
 author:
   name   : "Max V. Birk"
   avatar : "/assets/images/bio-photo-mb.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Assistant Professor
+  Human-Technology Interaction Group
+  Eindhoven University of Technology
+
+  Mental Health and Well-being
+  Game Design and User Experience
+  Cognition and Learning
+  Diversity, Ethics, and Social Issues"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

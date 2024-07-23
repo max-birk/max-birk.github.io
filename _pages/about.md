@@ -6,7 +6,18 @@ title: "About"
 
 ---
 
-I am an Assistant Professor in Human-Technology Interaction group at Eindhoven University of Technology. With an interdisciplinary background, I draw from psychology, interaction design, data science, and game design, to investigate the effects of game-based design strategies on mental processes and design-induced behaviour change. My research contributes to games user research, digital health, and motivational interface design. I am interested in projects contributing to a healthy society, improving entertainment experiences (e.g., eSports), and developing tools and methods for researching interactive experiences. 
+<h2>Engaging mental health care for everyone.</h2> 
+We learn from game design to boost mental health, equity, and happiness. 
+
+We draw from psychology, data science, and game design to investigate how game design affects experience and behavior, design videos games as measures of affective and cognitive processes, and integrate diverse perspectives.
+
+
+
+
+
+based strategies on mental processes and design-induced behaviour change. My research contributes to games user research, digital health, and motivational interface design.
+
+I am an Assistant Professor in Human-Technology Interaction group at Eindhoven University of Technology. With an interdisciplinary background, I Drawing from psychology, interaction design, data science, and game design, to investigate the effects of game-based design strategies on mental processes and design-induced behaviour change. My research contributes to games user research, digital health, and motivational interface design. I am interested in projects contributing to a healthy society, improving entertainment experiences (e.g., eSports), and developing tools and methods for researching interactive experiences. 
 
 My research is published in international top HCI venues, and he has contributed to research on player experience, individual differences in play, task adherence, crowdsourcing, and on the intersection between video games and mental health. I have organized well-received workshops across the globe and led research projects spanning multiple continents. I have collaborated with game-designers in North America, Europe, and China, and experience working with independent developers like AlienTrap and global tech companies like Tencent.
 

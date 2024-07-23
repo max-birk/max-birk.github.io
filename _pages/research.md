@@ -40,5 +40,5 @@ You can find an up-to-date list of my publications on my  <a href="https://schol
 
 <p>Birk, Max V., Simone van der Hof, and Antonius van Rooij. "Behavioral design in video games." ACM Games: Research and Practice (2024). </p>
 
-<img src="/assets/images/trimbos-logo-1.png" alt="Logo Trimbos instituut">
-<img src="/assets/images/ul_logo.png" alt="Logo Leiden University">
+<img src="/assets/images/trimbos-logo-1.png" alt="Logo Trimbos instituut" width="100">
+<img src="/assets/images/ul_logo.png" alt="Logo Leiden University" width="100">

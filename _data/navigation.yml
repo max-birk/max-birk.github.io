@@ -3,6 +3,8 @@ main:
     url: /
   #- title: "Posts"
   #  url: /blog/
+  - title: "People"
+    url: /people/
   - title: "Research"
     url: /research/
   - title:  "Teaching"

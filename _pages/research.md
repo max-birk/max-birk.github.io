@@ -21,7 +21,7 @@ You can find an up-to-date list of my publications on my  <a href="https://schol
 <p>Markovitch, Benny, Panos Markopoulos, and Max V. Birk. "Tunnel Runner: a Proof-of-principle for the Feasibility and Benefits of Facilitating Players' Sense of Control in Cognitive Assessment Games." In Proceedings of the CHI Conference on Human Factors in Computing Systems, pp. 1-18. 2024.</p>
 
 
-<img src="/assets/images/NWO-logo-huisstijlsite.png" alt="Logo Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO)">
+<img src="/assets/images/NWO-logo-huisstijlsite.png" alt="Logo Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO)" width="100px">
 
 
 <h3>Behavioural Design in Video Games</h3>

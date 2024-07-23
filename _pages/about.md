@@ -1,6 +1,9 @@
 ---
-permalink: /about/
+permalink: /
+redirect_from:
+  - /about
 title: "About"
+
 ---
 
 I am an Assistant Professor in Human-Technology Interaction group at Eindhoven University of Technology. With an interdisciplinary background, I draw from psychology, interaction design, data science, and game design, to investigate the effects of game-based design strategies on mental processes and design-induced behaviour change. My research contributes to games user research, digital health, and motivational interface design. I am interested in projects contributing to a healthy society, improving entertainment experiences (e.g., eSports), and developing tools and methods for researching interactive experiences. 

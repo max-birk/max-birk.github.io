@@ -9,6 +9,9 @@ title: "About"
 <h2>Engaging mental health care for everyone.</h2> 
 We learn from game design to boost mental health, equity, and happiness. 
 
+
+<h2>A flourishing digital society that enjoys meaningful interactions with digital products. <h2> <i>We learn to boost mental health, equity, and happiness from interactive digital media, such as video games.</i>
+
 We draw from psychology, data science, and game design to investigate how game design affects experience and behavior, design videos games as measures of affective and cognitive processes, and integrate diverse perspectives.
 
 
